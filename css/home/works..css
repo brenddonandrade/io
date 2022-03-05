@@ -2,13 +2,13 @@
   display: grid;
   grid-template-columns: 1fr;
   justify-content: center;
-  background-color: var(--cor-primary-escura);
+  background-color: #010600;
   padding-bottom: 120px;
 }
 
 .works h1 {
   text-align: center;
-  color: #113A05;
+  color: #051501;
   margin-top: 60px;
   margin-bottom: 60px;
 }

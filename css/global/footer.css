@@ -1,0 +1,17 @@
+.footer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  color: #fff;
+  padding-bottom: 60px;
+}
+
+.footer h2 {
+  margin-bottom: 40px;
+  color: #f2f2f2;
+}
+
+
+.menu-footer li + li{
+  margin-top: 16px;
+}
+

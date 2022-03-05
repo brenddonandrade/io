@@ -9,10 +9,29 @@
   font-family: var(--font-h1);
 }
 
+.h2 {
+  text-transform: uppercase;
+  font-family: var(--font-h1);
+  font-size: 2.5rem; 
+  
+}
+
+.font-p {
+  font-size: 1.5rem;
+  font-family: var(--font-p);
+  color: #d2d2d2;
+}
+
+
+
 .cor-clara {
     background-color: var(--cor-primary-clara);
 }
 
 .cor-escura {
+  background-color: var(--cor-primary-escura);
+}
+
+.bg-escuro {
   background-color: var(--cor-primary-escura);
 }
