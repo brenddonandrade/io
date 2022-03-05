@@ -1,0 +1,31 @@
+.experience {
+  margin-bottom: 120px;
+}
+.experience h1 {
+  margin-bottom: 60px;
+  margin-left: 16px;
+}
+
+.expe-item {
+  display: grid;
+  gap: 30px;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.item {
+  padding: 16px;
+  background-color: var(--cor-primary-clara);
+  border-radius:4px;
+}
+.expe-item span {
+  display: block;
+  margin-bottom: 40px;
+}
+
+.expe-item h2 {
+  margin-bottom: 20px;
+}
+
+.expe-item {
+  font-family: var(--font-mono);
+}

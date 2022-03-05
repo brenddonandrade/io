@@ -9,4 +9,7 @@
 @import "./utilidades/componentes.css";
 
 /*  home */
-@import "./home/home.css";
+@import "./home/introducao.css";
+@import "./home/sobre.css";
+@import "./home/experiencia.css";
+@import "./home/works..css";

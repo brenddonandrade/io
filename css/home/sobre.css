@@ -1,0 +1,33 @@
+.sobre  {
+  margin-bottom: 120px;
+  }
+  
+  .sobre h1 {
+    margin-left: 3rem;
+    margin-bottom: 60px;
+  }
+  
+  .sobre-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .sobre-content p {
+    font-size: 1.625rem;
+    line-height: 1.4;
+    font-family: var(--font-p);
+    text-align: right;
+    margin-right: 16px;
+  }
+  
+  .sobre-img {
+    max-width: 714px;
+  }
+  
+  .sobre-img img {
+    width: 100%;
+  }
+  
+  
