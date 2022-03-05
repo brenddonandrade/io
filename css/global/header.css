@@ -1,0 +1,43 @@
+.header-bg {
+  background-color: var(--cor-primary-clara);
+
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  max-width: 100px;
+  margin-left: 16px;;
+}
+
+.logo img {
+  width: 100%;
+}
+
+.menu {
+  display: flex;
+  list-style-type: none;
+  font-size: 1.5rem;
+}
+
+.menu a {
+  display: inline-block;
+  padding: 1rem;
+}
+
+.menu a::after {
+  content: "";
+  display: block;
+  width: 0%;  
+  height: 2px;
+  background-color: #000;
+  transition: .3s;
+}
+
+.menu a:hover:after {
+  width: 100%;
+}
