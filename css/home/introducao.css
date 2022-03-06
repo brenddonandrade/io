@@ -33,3 +33,22 @@
   margin-left: 540px;
 }
 
+@media (max-width: 1000px){
+  .intro h1{
+  margin-top: 140px;
+  }
+  .img-intro  {
+    margin-top: 0px;
+  }
+
+  .intro span {
+    margin-left: 0;
+  }
+}
+
+
+/* @media (max-width: 800px){
+  .intro {
+
+  }
+} */

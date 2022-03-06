@@ -18,6 +18,7 @@
   gap: 10px;
   overflow-x: scroll;
   font-family: var(--font-mono);
+  padding: 16px;
 }
 
 .slide-img {

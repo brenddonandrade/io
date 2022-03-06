@@ -29,3 +29,13 @@
 .expe-item {
   font-family: var(--font-mono);
 }
+
+@media (max-width: 800px){
+  .expe-item {
+    grid-template-columns: 1fr;
+    justify-content: center;
+  }
+  .item {
+    
+  }
+}

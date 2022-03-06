@@ -13,7 +13,6 @@
   text-transform: uppercase;
   font-family: var(--font-h1);
   font-size: 2.5rem; 
-  
 }
 
 .font-p {
@@ -35,3 +34,28 @@
 .bg-escuro {
   background-color: var(--cor-primary-escura);
 }
+
+@media (max-width: 1000px){
+  .h1 {
+    font-size: 4rem;
+  }
+
+  .h2 {
+    font-size: 1.5rem; 
+  }
+
+  .font-p {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 800px){
+  .h2 {
+    font-size: 2.5rem; 
+  }
+
+  .font-p {
+    font-size: 1.5rem;
+  }
+}
+
