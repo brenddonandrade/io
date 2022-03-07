@@ -1,4 +1,5 @@
 .footer {
+  padding-top: 40px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   color: #e2e2e2;
@@ -30,9 +31,6 @@
   .footer h2 {
     margin-bottom: 20px;
     color: #e2e2e2;
-  }
-
-  .footer-column p {
   }
 
   .h2 {
