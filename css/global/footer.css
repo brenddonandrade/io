@@ -1,7 +1,7 @@
 .footer {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  color: #fff;
+  color: #e2e2e2;
   padding-bottom: 60px;
 }
 
@@ -9,7 +9,6 @@
   margin-bottom: 40px;
   color: #f2f2f2;
 }
-
 
 .menu-footer li + li{
   margin-top: 16px;
@@ -24,13 +23,16 @@
     text-align: center;
   }
 
+  .footer-column + .footer-column {
+    margin-top: 40px;
+  }
+
   .footer h2 {
     margin-bottom: 20px;
-    color: #f2f2f2;
+    color: #e2e2e2;
   }
 
   .footer-column p {
-    margin-bottom: 40px;
   }
 
   .h2 {

@@ -13,3 +13,9 @@
 @import "./home/sobre.css";
 @import "./home/experiencia.css";
 @import "./home/works..css";
+
+/* politica de privacidade */
+@import "./politica-de-privacidade/politica-de-privacidade.css";
+
+/* termos de uso */
+@import "./termos-de-uso/termos-de-uso.css";

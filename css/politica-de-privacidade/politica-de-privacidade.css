@@ -1,0 +1,24 @@
+.politica-content {
+  padding: 1rem;
+}
+
+.politica-content h2, .politica-content h3 {
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+
+.politica-content p {
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  max-width: 65ch;
+  margin-bottom: 16px;
+  color: #505050;
+}
+
+.politica-content li {
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  max-width: 65ch;
+  margin-bottom: 16px;
+  color: #505050;
+}

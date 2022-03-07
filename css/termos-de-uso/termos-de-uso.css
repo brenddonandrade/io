@@ -1,0 +1,25 @@
+.termos-content {
+  padding: 16px;
+}
+
+.termos-content h2, .termos-content h3 {
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+
+.termos-content li {
+  margin-left: 40px;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  max-width: 65ch;
+  margin-bottom: 16px;
+  color: #505050;
+}
+
+.termos-content p {
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  max-width: 65ch;
+  margin-bottom: 16px;
+  color: #505050;
+}
