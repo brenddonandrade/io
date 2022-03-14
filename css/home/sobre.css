@@ -17,7 +17,7 @@
   .sobre-content p {
     font-size: 1.625rem;
     line-height: 1.4;
-    font-family: var(--font-p);
+    font-family: var(--font-1-m);
     text-align: right;
     margin-right: 16px;
   }

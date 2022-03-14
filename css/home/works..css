@@ -4,7 +4,9 @@
   justify-content: center;
   background-color: #010600;
   padding-bottom: 120px;
+  position: relative;
 }
+
 
 .works h1 {
   text-align: center;

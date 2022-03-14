@@ -3,27 +3,27 @@
   margin: 0 auto;
 }
 
-.h1{
+.font-1-xxl{
   text-transform: uppercase;
   font-size: 6rem; 
   font-family: var(--font-h1);
 }
 
-.h2 {
+.font-1-xl {
   text-transform: uppercase;
   font-family: var(--font-h1);
   font-size: 2.5rem; 
 }
 
-.h3 {
+.font-1-l {
   text-transform: uppercase;
   font-family: var(--font-h1);
   font-size: 1.5rem; 
 }
 
-.font-p {
+.font-1-m {
   font-size: 1.5rem;
-  font-family: var(--font-p);
+  font-family: var(--font-1-m);
   color: #d2d2d2;
 }
 
@@ -42,27 +42,27 @@
 }
 
 @media (max-width: 1000px){
-  .h1 {
+  .font-1-xxl {
     font-size: 4rem;
   }
 
-  .h2 {
+  .font-1-xl {
     font-size: 1.5rem; 
   }
 
-  .font-p {
+  .font-1-m {
     font-size: 1rem;
   }
 }
 
 @media (max-width: 800px){
-  .h2 {
+  .font-1-xl {
     font-size: 2.5rem; 
   }
 }
 
 @media (max-width: 500px){
-  .h1 {
+  .font-1-xxl {
     font-size: 2.5rem; 
   }
 }
